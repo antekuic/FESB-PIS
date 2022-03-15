@@ -7,7 +7,7 @@ namespace Vjezbe
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Novo"); // added new line
+            Console.WriteLine("Novo123"); // added new line
         }
     }
 }
