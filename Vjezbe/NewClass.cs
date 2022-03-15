@@ -6,5 +6,10 @@ namespace Vjezbe
 {
     class NewClass
     {
+        int EmptyMethod()
+        {
+            return 1;
+        }
     }
+    
 }
