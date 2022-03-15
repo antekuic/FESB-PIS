@@ -8,6 +8,7 @@ namespace Vjezbe
     {
         int EmptyMethod()
         {
+            // problem rjesen
             return 1;
         }
         int metodaa() { return 3; }
