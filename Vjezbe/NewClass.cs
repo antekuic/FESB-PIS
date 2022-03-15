@@ -10,6 +10,7 @@ namespace Vjezbe
         {
             return 1;
         }
+        int metodaa() { return 3; }
     }
     
 }
