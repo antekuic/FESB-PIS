@@ -6,5 +6,6 @@ namespace Vjezbe
 {
     class NewClass
     {
+        int metodaa() { return 3; }
     }
 }
